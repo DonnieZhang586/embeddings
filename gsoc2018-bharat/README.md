@@ -87,3 +87,7 @@ $ python src/train_lstm.py -e 50
 $ python src/train_lstm.py -m {saved_model} -e 10 -s 300
 ```
 Execute the command without any additional arguments to run the script with the default values.
+
+### Important Links to track the progress
+
+I wrote a [blog](https://bharatsuri.blogspot.com/) during the program and you can have a look at the entire progress [here](https://bharatsuri.blogspot.com/p/my-progress.html). I have also included the results from plotting the embeddings, and the evaluation metric in the progress page.
